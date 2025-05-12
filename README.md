@@ -1,4 +1,4 @@
-# linear-regression-ml-model
+# linear-regression-ml-model-with-generating-cases
 Machine Learning Model predicts value Y using X1 and X2.
 
 What This Program Does
